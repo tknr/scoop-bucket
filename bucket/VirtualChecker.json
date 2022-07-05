@@ -1,0 +1,8 @@
+{
+    "description": "仮想化関連機能の状態確認ツールです。",
+    "homepage": "https://openlibsys.org/index-ja.html",
+    "version": "3.0.1",
+    "url": "https://openlibsys.org/download/VirtualChecker3.zip",
+    "hash": "",
+    "bin": "VirtualChecker.exe"
+}
