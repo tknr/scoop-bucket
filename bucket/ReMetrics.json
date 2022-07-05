@@ -1,0 +1,12 @@
+{
+    "description": "This program sets the system font setting on Windows 8.1/10/11.",
+    "homepage": "https://github.com/Tatsu-syo/ReMetrics",
+    "version": "1.33",
+    "url": "https://github.com/Tatsu-syo/ReMetrics/releases/download/TAG-1.33/ReMetrics133.zip",
+    "hash": "",
+    "bin": "ReMetrics.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/Tatsu-syo/ReMetrics/releases/download/TAG-$version/ReMetrics$version.zip"
+    }
+}
