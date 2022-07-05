@@ -1,0 +1,8 @@
+{
+    "description": "視覚的な操作でステレオWAVEファイルから特定の定位や周波数で絞った音を取り出す",
+    "homepage": "https://www.vector.co.jp/soft/winnt/art/se481068.html",
+    "version": "1.0",
+    "url": "https://ftp.vector.co.jp/50/11/3121/otokiris10.lzh",
+    "hash": "",
+    "bin": "Otokiris.exe"
+}
