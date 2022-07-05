@@ -1,0 +1,8 @@
+{
+    "description": "JoyToKey (or Joy2Key) enables PC game controllers to emulate the keyboard and mouse input, so that windows applications and web games can be controlled with your favorite joysticks!",
+    "homepage": "https://joytokey.net/",
+    "version": "6.8",
+    "url": "https://joytokey.net/download/JoyToKey.zip",
+    "hash": "",
+    "bin": "JoyToKey.exe"
+}
