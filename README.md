@@ -15,6 +15,8 @@ scoop bucket add tknr https://github.com/tknr/scoop-bucket.git
 * JoyToKey https://joytokey.net/
 * noMeiryoUI https://github.com/Tatsu-syo/noMeiryoUI
 * Otokiris https://www.vector.co.jp/soft/winnt/art/se481068.html
+* Romeolight BPGconv https://www.vector.co.jp/soft/winnt/art/se508928.html
+
 
 
 
