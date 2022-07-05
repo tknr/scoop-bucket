@@ -1,8 +1,8 @@
 {
     "description": "Simulate locations on iOS devices on Windows, Mac and Ubuntu.",
     "homepage": "https://github.com/master131/iFakeLocation",
-    "version": "1.5.0",
-    "url": "https://github.com/master131/iFakeLocation/releases/download/v1.5.0/ifakelocation-v1.5.0-windows-x86.zip",
+    "version": "1.6.0",
+    "url": "https://github.com/master131/iFakeLocation/releases/download/v1.6.0/ifakelocation-v1.6.0-windows-x86-x64.zip",
     "hash": "sha256:2ed116532c1d7b2152e862ee738347420aa81f937a9ffa32b9e7825faa562aad",
     "bin": "iFakeLocation.exe",
     "checkver": "github",
