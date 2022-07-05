@@ -1,0 +1,8 @@
+{
+    "description": "Application for browsing, searching, extracting and managing icons in/from files and libraries.",
+    "homepage": "http://spring-fragrance.mints.ne.jp/aviutl/",
+    "version": "1.10",
+    "url": "http://spring-fragrance.mints.ne.jp/aviutl/aviutl110.zip",
+    "hash": "",
+    "bin": "aviutl.exe"
+}
