@@ -9,6 +9,13 @@ scoop bucket add tknr https://github.com/tknr/scoop-bucket.git
 
 ## Buckets
 
-* fakelocation
+* iFakeLocation https://github.com/master131/iFakeLocation
+* aviutil http://spring-fragrance.mints.ne.jp/aviutl/
+* IconExplorer http://mitec.cz/iconex.html
+* JoyToKey https://joytokey.net/
+* noMeiryoUI https://github.com/Tatsu-syo/noMeiryoUI
+* Otokiris https://www.vector.co.jp/soft/winnt/art/se481068.html
+
+
 
 
