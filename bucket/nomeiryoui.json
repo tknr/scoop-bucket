@@ -1,0 +1,12 @@
+{
+    "description": "This program sets the system font setting on Windows 8.1/10/11.",
+    "homepage": "https://github.com/Tatsu-syo/noMeiryoUI",
+    "version": "3.0.0.1",
+    "url": "https://github.com/Tatsu-syo/noMeiryoUI/releases/download/TAG-3.0.0.1/noMeiryoUI3.0.0.1.zip",
+    "hash": "",
+    "bin": "iFakeLocation.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/Tatsu-syo/noMeiryoUI/releases/download/TAG-$version/noMeiryoUI$version.zip"
+    }
+}
