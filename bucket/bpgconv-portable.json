@@ -1,0 +1,8 @@
+{
+    "description": "BPGフォーマットとJPEG/PNG/GIF等の画像ファイルを一括相互変換",
+    "homepage": "https://www.vector.co.jp/soft/winnt/art/se508928.html",
+    "version": "2.5",
+    "url": "https://ftp.vector.co.jp/65/45/3102/BPGconvPortable.zip",
+    "hash": "",
+    "bin": "BPGconv.exe"
+}
