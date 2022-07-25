@@ -1,0 +1,8 @@
+{
+    "description": "視覚的な操作でステレオWAVEファイルから特定の定位や周波数で絞った音を取り出す",
+    "homepage": "https://www.minagi.jp/2013/12/30/m2tsviewer/",
+    "version": "1.00",
+    "url": "https://ftp.vector.co.jp/62/18/3361/m2tsViewer100.zip",
+    "hash": "",
+    "bin": "m2tsViewer.exe"
+}
