@@ -1,0 +1,8 @@
+{
+    "description": "It can repair your corrupted MKV video files to make it compatible with your player.",
+    "homepage": "http://www.mkvrepair.com/",
+    "version": "0.11",
+    "url": "https://jaist.dl.sourceforge.net/project/meteorite/v0.11%20Beta/Meteorite-v0.11-Win32.zip",
+    "hash": "",
+    "bin": "Meteorite.exe"
+}
