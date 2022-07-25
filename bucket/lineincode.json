@@ -1,0 +1,8 @@
+{
+    "description": "This program captures audio data and dumps it into its standard output (STDOUT).",
+    "homepage": "https://romanrm.net/lineincode",
+    "version": "2.10",
+    "url": "https://mirrors.romanrm.net/linco/lineincode/lineincode-2.10.zip",
+    "hash": "",
+    "bin": "linco.exe"
+}
