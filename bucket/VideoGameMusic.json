@@ -1,0 +1,8 @@
+{
+    "description": "VideoGameMusicからmp3やflacをを一括で落とすソフトです。",
+    "homepage": "https://shimarisu.ie-t.net/VideoGameMusic.html",
+    "version": "1.0.0",
+    "url": "https://shimarisu.ie-t.net/file/VideoGameMusic.zip",
+    "hash": "",
+    "bin": "VideoGameMusicダウンローダ.exe"
+}
