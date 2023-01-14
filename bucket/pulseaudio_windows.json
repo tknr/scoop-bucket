@@ -1,0 +1,8 @@
+{
+    "description": "PulseAudio on Windows",
+    "homepage": "https://github.com/tknr/pulseaudio_windows",
+    "version": "1.1",
+    "url": "https://github.com/tknr/pulseaudio_windows/releases/download/1.1/pulseaudio_windows.zip",
+    "hash": "",
+    "bin": "bin\pulseaudio.exe"
+}
