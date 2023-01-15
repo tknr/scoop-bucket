@@ -1,0 +1,8 @@
+{
+    "description": "CPRMDecrypter",
+    "homepage": "https://github.com/tknr/CPRMDecrypter",
+    "version": "0.0",
+    "url": "https://github.com/tknr/CPRMDecrypter/releases/download/0.0/CPRMDecrypter.zip",
+    "hash": "",
+    "bin": "CPRMDecrypter.exe"
+}
