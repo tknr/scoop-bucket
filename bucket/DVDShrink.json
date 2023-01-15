@@ -1,0 +1,8 @@
+{
+    "description": "DVDShrink",
+    "homepage": "https://github.com/tknr/DVDShrink",
+    "version": "3.2",
+    "url": "https://github.com/tknr/DVDShrink/releases/download/3.2/DVDShrink.zip",
+    "hash": "",
+    "bin": "DVDShrink.exe"
+}
