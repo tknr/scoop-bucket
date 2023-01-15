@@ -1,0 +1,8 @@
+{
+    "description": "DVDDecrypter",
+    "homepage": "https://github.com/tknr/DVDDecrypter",
+    "version": "0.0",
+    "url": "https://github.com/tknr/DVDDecrypter/releases/download/0.0/DVDDecrypter.zip",
+    "hash": "",
+    "bin": "DVDDecrypter.exe"
+}
