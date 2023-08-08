@@ -1,0 +1,8 @@
+{
+    "description": "New jpegtran -scale lossless resize feature",
+    "homepage": "https://jpegclub.org/jpegtran/",
+    "version": "0.0.1",
+    "url": "https://jpegclub.org/jpegtran.zip",
+    "hash": "",
+    "bin": "jpegtran.exe"
+}
