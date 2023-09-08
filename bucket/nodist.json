@@ -1,0 +1,18 @@
+{
+    "homepage": "https://github.com/marcelklehr/nodist",
+    "version": "0.9.1",
+    "license": "MIT",
+    "url": "https://github.com/nullivex/nodist/releases/download/0.9.1/NodistSetup-v0.9.1.exe",
+    "installer": {
+        "args": "/S /D=$dir"
+    },
+    "uninstaller": {
+        "file": "uninstall.exe",
+        "args": "/S"
+    },
+    "env_add_path": "bin",
+    "bin": [
+        "bin\\nodist",
+        "bin\\nodist.cmd"
+    ]
+}
