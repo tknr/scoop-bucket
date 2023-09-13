@@ -16,7 +16,7 @@
   "architecture": {
     "64bit": {
       "url": "https://a5m2.mmatsubara.com/beta/a5m2_2.19.0_beta4_x64.zip",
-      "hash": ""
+      "hash": "065d54c24685e83e95a96f48b7379ef4c8b57e980ee4d3a49ea38ddcea86485e"
     },
     "32bit": {
       "url": "https://a5m2.mmatsubara.com/beta/a5m2_2.19.0_beta4_x86.zip",
