@@ -2,6 +2,12 @@
     "description": "nodist-portable",
     "homepage": "https://github.com/tknr/nodist",
     "version": "0.10.3",
+    "license": "MIT",
     "url": "https://github.com/tknr/nodist/releases/download/v0.10.3/nodist.zip",
-    "hash": "d21f970dbf182bd75ca961e77e3426d37a554f224d39096578a1f18fa277327a"
+    "hash": "d21f970dbf182bd75ca961e77e3426d37a554f224d39096578a1f18fa277327a",
+    "env_add_path": "bin",
+    "bin": [
+        "bin\\nodist",
+        "bin\\nodist.cmd"
+    ]
 }
