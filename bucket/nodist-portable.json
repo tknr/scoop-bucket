@@ -1,0 +1,8 @@
+{
+    "description": "nodist-portable",
+    "homepage": "https://github.com/tknr/nodist",
+    "version": "0.10.3",
+    "url": "https://github.com/tknr/nodist/releases/download/v0.10.3/nodist.zip",
+    "hash": "",
+    "bin": "node.exe"
+}
