@@ -1,7 +1,7 @@
 {
     "description": "The new & best way to sideload your favorite games and apps to your Non-Jailbroken iOS device, or Apple Silicon Mac.",
     "homepage": "https://sideloadly.io",
-    "version": "0.26.3",
+    "version": "0.50.0",
     "architecture": {
         "64bit": {
             "url": "https://sideloadly.io/SideloadlySetup64.exe"
