@@ -6,6 +6,10 @@
     "url": "https://github.com/tknr/nodist/releases/download/v0.10.3/nodist.zip",
     "hash": "16ed3e2e6ede8e07ac12ee9963920dc3f5c70d0b1a87cbed7260d59dc7c5d602",
     "env_add_path": "bin",
+    "env_set": {
+      "NODE_TLS_REJECT_UNAUTHORIZED": "0",
+      "NODIST_PREFIX": "$dir"
+    },
     "bin": [
         "bin\\nodist",
         "bin\\nodist.cmd"
