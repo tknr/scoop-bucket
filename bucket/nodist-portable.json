@@ -4,7 +4,7 @@
     "version": "0.10.3",
     "license": "MIT",
     "url": "https://github.com/tknr/nodist/releases/download/v0.10.3/nodist.zip",
-    "hash": "d21f970dbf182bd75ca961e77e3426d37a554f224d39096578a1f18fa277327a",
+    "hash": "16ed3e2e6ede8e07ac12ee9963920dc3f5c70d0b1a87cbed7260d59dc7c5d602",
     "env_add_path": "bin",
     "bin": [
         "bin\\nodist",
