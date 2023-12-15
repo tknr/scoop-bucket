@@ -13,5 +13,8 @@
     "bin": [
         "bin\\nodist",
         "bin\\nodist.cmd"
-    ]
+    ],
+    "autoupdate": {
+        "url": "https://github.com/tknr/nodist/releases/download/v$version/nodist.zip"
+    }
 }
