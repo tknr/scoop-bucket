@@ -20,6 +20,11 @@
       "PowerShell"
     ]
   ],
+  "checkver": {
+    "url": "https://api.github.com/repos/PowerShell/PowerShell/releases",
+    "jsonpath": "$.[0].tag_name",
+    "regex": "v([\\d.]+)"
+  },
   "autoupdate": {
     "architecture": {
       "64bit": {
