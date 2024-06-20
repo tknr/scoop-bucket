@@ -1,10 +1,7 @@
-![auto update bucket](https://github.com/guitarrapc/scoop-bucket/workflows/auto%20update%20bucket/badge.svg)
-
 # scoop-bucket
 
 ```
 scoop bucket add tknr https://github.com/tknr/scoop-bucket.git
-
 ```
 
 ## Buckets
@@ -18,6 +15,8 @@ scoop bucket add tknr https://github.com/tknr/scoop-bucket.git
 * Romeolight BPGconv https://www.vector.co.jp/soft/winnt/art/se508928.html
 * VirtualChecker https://openlibsys.org/index-ja.html
 * VideoGameMusic https://shimarisu.ie-t.net/VideoGameMusic.html
+* PowerShell https://github.com/PowerShell/PowerShell
+* HackGen https://github.com/yuru7/HackGen
 
 
 
