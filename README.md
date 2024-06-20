@@ -17,6 +17,7 @@ scoop bucket add tknr https://github.com/tknr/scoop-bucket.git
 * VideoGameMusic https://shimarisu.ie-t.net/VideoGameMusic.html
 * PowerShell https://github.com/PowerShell/PowerShell
 * HackGen https://github.com/yuru7/HackGen
+* etc.
 
 
 
