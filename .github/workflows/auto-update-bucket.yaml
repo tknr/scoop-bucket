@@ -10,7 +10,7 @@ jobs:
     timeout-minutes: 10
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - run: openssl aes-256-cbc --pbkdf2 -d -in .github/.ssh/id_rsa.cipher -k ${{ secrets.CIPHER_KEY }} >> .github/.ssh/id_rsa
       - run: docker-compose up
         working-directory: .github
