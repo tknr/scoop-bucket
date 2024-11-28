@@ -1,0 +1,8 @@
+{
+    "description": "TTClock",
+    "homepage": "https://chihiro718.jpn.org/software/TTClock/",
+    "version": "3.5",
+    "url": "https://github.com/tknr/scoop-bucket/releases/download/0.0.0/TTClockSetup35.zip",
+    "hash": "",
+    "bin": "TTClock.exe"
+}
