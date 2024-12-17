@@ -7,7 +7,10 @@
         "url": "https://github.com/majd/ipatool?tab=MIT-1-ov-file#readme"
     },
     "url": "https://github.com/majd/ipatool/releases/download/v2.1.4/ipatool-2.1.4-windows-amd64.tar.gz",
-    "hash": "",
+    "hash": {
+        "url": "https://github.com/majd/ipatool/releases/download/v2.1.4/ipatool-2.1.4-windows-amd64.tar.gz.sha256sum"
+    },
+    "extract_dir": "",
     "bin": "bin/ipatool-2.1.4-windows-amd64.exe",
     "checkver": {
         "github": "https://github.com/majd/ipatool"
