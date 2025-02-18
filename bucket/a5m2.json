@@ -15,11 +15,11 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://a5m2.mmatsubara.com/beta/a5m2_2.20.2_beta3_x64.zip,
+      "url": "https://a5m2.mmatsubara.com/beta/a5m2_2.20.2_beta3_x64.zip",
       "hash": ""
     },
     "32bit": {
-      "url": "https://a5m2.mmatsubara.com/beta/a5m2_2.20.2_beta3_x86.zip,
+      "url": "https://a5m2.mmatsubara.com/beta/a5m2_2.20.2_beta3_x86.zip",
       "hash": ""
     }
   },
