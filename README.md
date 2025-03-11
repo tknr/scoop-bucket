@@ -6,7 +6,6 @@ scoop bucket add tknr https://github.com/tknr/scoop-bucket.git
 
 ## Buckets
 
-* iFakeLocation https://github.com/master131/iFakeLocation
 * aviutil http://spring-fragrance.mints.ne.jp/aviutl/
 * IconExplorer http://mitec.cz/iconex.html
 * JoyToKey https://joytokey.net/
@@ -17,6 +16,7 @@ scoop bucket add tknr https://github.com/tknr/scoop-bucket.git
 * VideoGameMusic https://shimarisu.ie-t.net/VideoGameMusic.html
 * PowerShell https://github.com/PowerShell/PowerShell
 * HackGen https://github.com/yuru7/HackGen
+* 方眼Diff https://github.com/nmby/hogandiff4
 * etc.
 
 
