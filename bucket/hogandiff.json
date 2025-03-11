@@ -1,0 +1,21 @@
+{
+    "version": "0.24.0",
+    "description": "Excelファイル比較ツール「方眼Diff」",
+    "homepage": "https://hogandiff.hotchpotch.xyz/",
+    "url": "https://github.com/nmby/hogandiff4/releases/download/v0.24.0/hogandiff-0.24.0-win-x64.zip",
+    "hash": "",
+    "extract_dir": "",
+    "bin": "hogandiff.exe",
+    "shortcuts": [
+    [
+      "hogandiff.exe",
+      "方眼Diff"
+    ]
+  ],
+    "checkver": {
+        "github": "https://github.com/nmby/hogandiff4"
+    },
+    "autoupdate": {
+        "url": "https://github.com/majd/ipatool/releases/download/v$version/hogandiff-$version-win-x64.zip"
+    }
+}
