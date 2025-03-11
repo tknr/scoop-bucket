@@ -4,12 +4,12 @@
     "homepage": "https://hogandiff.hotchpotch.xyz/",
     "url": "https://github.com/nmby/hogandiff4/releases/download/v0.24.0/hogandiff-0.24.0-win-x64.zip",
     "hash": "",
-    "extract_dir": "",
+    "extract_dir": "hogandiff-0.24.0-win-x64",
     "bin": "hogandiff.exe",
     "shortcuts": [
     [
       "hogandiff.exe",
-      "hogandiff"
+      "方眼Diff"
     ]
   ],
     "checkver": {
