@@ -4,5 +4,6 @@
     "version": "232",
     "url": "https://github.com/tknr/scoop-bucket/releases/download/0.0.0/iohddfmt.232.zip",
     "hash": "",
+    "extract_dir": "iohddfmt",
     "bin": "HDDFMT.exe"
 }
