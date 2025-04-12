@@ -1,0 +1,9 @@
+{
+    "description": "ドラッグ&ドロップによって複数のショートカットファイルのリンク先をまとめて変更",
+    "homepage": "https://www.vector.co.jp/soft/winnt/util/se499244.html",
+    "version": "3.0.0",
+    "url": "https://ftp.vector.co.jp/75/21/2323/ShortcutTargetChanger_300.zip",
+    "hash": "",
+    "extract_dir": "ShortcutTargetChanger_300",
+    "bin": "ShortcutTargetChanger.exe"
+}
